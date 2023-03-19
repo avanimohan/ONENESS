@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ONENESS</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="welcome_back">WELCOME BACK</string>
+    <string name="sign_up">sign up</string>
+    <string name="hello_you">HELLO YOU!</string>
+    <string name="started_sub_title">Empowering Minds,Healing HEARTS</string>
+    <string name="illustration_image">illustration_image</string>
+    <string name="register">REGISTER</string>
+    <string name="login_sub_title">
+        <font color="#00C988"><b>Login</b></font>
+        if you already have an account.
+    </string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="login_havent_account">
+    I don\'t have account
+    <font color="#00C988"><b>Register</b></font>
+</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="signup_sub_title">
+        <font color="#00C988"><b>Register</b></font>
+        to get started with the app.
+    </string>
+    <string name="your_fullname">Your fullname</string>
+    <string name="your_username">Your username</string>
+    <string name="confirm_password">Confirm Password</string>
+
+    <string name="register_have_account">
+    I already have an account
+    <font color="#00C988"><b>Login</b></font>
+</string>
+
+
+</resources>
