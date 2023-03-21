@@ -54,6 +54,8 @@
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:text="@string/login"
+        app:layout_constraintTop_toBottomOf="@id/img_illustration_started"
+        android:layout_marginTop="70dp"
         tools:ignore="MissingConstraints"
         tools:layout_editor_absoluteX="24dp"
         tools:layout_editor_absoluteY="570dp" />
